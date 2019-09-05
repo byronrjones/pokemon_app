@@ -1,3 +1,6 @@
+Video Tutorial Link: https://www.youtube.com/watch?v=o3ZUc7zH8BE
+Pokemon API URL: https://pokeapi.co/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
